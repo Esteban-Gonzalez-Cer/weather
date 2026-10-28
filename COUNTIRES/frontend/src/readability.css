@@ -1,0 +1,40 @@
+/* Preserve the reference's light palette while keeping functional text readable. */
+.country-dialog{position:relative;width:880px;max-width:100%;isolation:isolate}
+.hero-copy>p{font-size:14px;color:#776b85}
+.hero-note{font-size:10px;color:#897a96}
+.overview-item>div>span{font-size:11px;color:#80718d}
+.overview-item .status-text{font-size:14px}
+.search-field input,.select-field select{font-size:13px;color:#6f5f7e}
+.search-field input::placeholder{color:#897b96}
+.region-tabs button{font-size:12px;color:#7d6c8e}
+.result-count{font-size:12px;color:#81728e}
+.region-label{font-size:11px;color:#8865a9}
+.country-card h3{font-size:19px}
+.capital{font-size:12px;color:#80718f}
+.card-bottom{font-size:12px;color:#776486}
+.country-code{font-size:9px;color:#7d6b8b}
+.catalog-tag,.text-button{font-size:11px}
+.active-filters{font-size:12px;color:#7c678c}
+.catalog-notice strong{font-size:13px}
+.catalog-notice p{font-size:12px}
+.pagination{font-size:11px;color:#887395}
+.pagination button{font-size:12px}
+.site-footer p,.footer-source{font-size:11px;color:#877193}
+.official-name{font-size:13px;color:#8a7198}
+.region-pill{font-size:11px;color:#8260af}
+.detail-highlights strong{font-size:20px;color:#584263}
+.detail-highlights span{font-size:11px;color:#8e759d}
+.fact dt{font-size:10px;color:#8a7097}
+.fact dd{font-size:13px;color:#6b537c}
+.detail-source{font-size:10px;color:#897194}
+.modal-flag-panel .eyebrow{font-size:9px;color:#9473aa}
+.flag-caption{font-size:10px;color:#9676a8}
+.welcome-copy>p{font-size:14px;color:#897195}
+.welcome-copy>small{font-size:11px;color:#917c9f}
+.welcome .setup-note{font-size:12px;color:#897095}
+.welcome-footer,.welcome-caption{font-size:11px;color:#92799f}
+.google-button{font-size:13px}
+@media(max-width:1150px){.country-card h3{font-size:18px}.card-bottom{font-size:11px}.overview-item>div>span{font-size:10px}.overview-item .status-text{font-size:12px}}
+@media(max-width:850px){.hero-copy>p{font-size:12px}.hero-note{font-size:9px}.overview-item>div>span{font-size:10px}.overview-item .status-text{font-size:12px}.filter-bar .select-field select{font-size:11px}.search-field input{font-size:12px}.region-tabs button{font-size:11px}.country-card h3{font-size:17px}.capital{font-size:11px}.card-bottom{font-size:10px}.region-label{font-size:10px}.fact dd{font-size:12px}.detail-highlights strong{font-size:17px}.modal-flag-panel .eyebrow{font-size:8px}.flag-caption{font-size:9px}.welcome-copy>p{font-size:12px}.welcome .setup-note{font-size:11px}}
+@media(max-width:650px){.hero-copy>p{font-size:12px}.overview-item>div>span{font-size:10px}.overview-item .status-text{font-size:11px}.update-item>div>span{font-size:10px}.overview .update-item>div{align-items:flex-start;flex-direction:column;gap:3px}.update-item>div>span{max-width:none}.country-card h3{font-size:17px}.capital{font-size:11px}.card-bottom{font-size:10px}.region-label{font-size:10px}.filter-bar .select-field select{font-size:10px}.search-field input{font-size:12px}.region-tabs button{font-size:11px}.result-count{font-size:11px}.country-code{font-size:8px}.catalog-notice strong{font-size:12px}.catalog-notice p{font-size:11px}.text-button{font-size:11px}.catalog-notice>.text-button{font-size:10px}.site-footer p,.footer-source{font-size:10px}.detail-highlights strong{font-size:17px}.facts-grid{column-gap:18px}.fact dd{font-size:12px}.fact dt{font-size:9px}.detail-source{font-size:9px}.official-name{font-size:12px}.welcome-copy>p{font-size:12px}.welcome-copy>small{font-size:10px}.welcome .setup-note{font-size:11px}.welcome-footer,.welcome-caption{font-size:9px}.google-button{font-size:12px}}
+@media(max-width:380px){.country-card h3{font-size:16px}.capital{font-size:10px}.card-bottom{font-size:10px}.card-bottom>span:first-child>svg{display:none}.overview-item>div>span{font-size:9px}.overview-item .status-text{font-size:10px}.update-item>div>span{font-size:9px}.filter-bar .select-field select{font-size:10px}.filter-bar .select-field>svg:first-child{display:none}.modal-content{padding-left:19px;padding-right:19px}.detail-highlights strong{font-size:16px}.fact dd{font-size:12px}.facts-grid{column-gap:12px}.welcome h1{font-size:42px}.welcome-copy>p{font-size:11px}}

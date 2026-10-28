@@ -1,0 +1,75 @@
+# Variables de entorno; sólo se versionan las plantillas sin credenciales.
+.env
+.env.*
+!.env.example
+.envrc
+
+# Credenciales, tokens y claves privadas.
+secrets/
+.secrets/
+.aws/
+.ssh/
+.gnupg/
+credentials*.json
+client_secret*.json
+*service-account*.json
+*service_account*.json
+token.json
+tokens.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+id_rsa*
+id_ed25519*
+.pgpass
+.netrc
+.npmrc
+.pypirc
+
+# Dependencias y entornos locales.
+.venv/
+venv/
+env/
+node_modules/
+
+# Airflow: incluye claves generadas, contraseñas, metadata y logs.
+.airflow/
+airflow_home/
+
+# Cachés, resultados generados y archivos temporales.
+.cache/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.py[cod]
+dist/
+build/
+coverage/
+.coverage
+htmlcov/
+test-results/
+playwright-report/
+*.log
+*.log.*
+*.sqlite
+*.sqlite3
+*.sqlite-*
+*.db
+*.db-*
+*.dump
+*.backup
+*.bak
+*.sql.gz
+*.tmp
+
+# Estado local del editor, del agente y del sistema.
+.codex/
+.agents/
+.idea/
+.DS_Store
+._*
+Thumbs.db

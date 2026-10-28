@@ -1,0 +1,216 @@
+{
+  "names": {
+    "alternates": [],
+    "common": "Canada",
+    "native": {
+      "eng": {
+        "common": "Canada",
+        "official": "Canada"
+      },
+      "fra": {
+        "common": "Canada",
+        "official": "Canada"
+      }
+    },
+    "official": "Canada",
+    "translations": {
+      "ara": {
+        "common": "كندا",
+        "official": "كندا"
+      },
+      "bre": {
+        "common": "Kanada",
+        "official": "Kanada"
+      },
+      "ces": {
+        "common": "Kanada",
+        "official": "Kanada"
+      },
+      "cym": {
+        "common": "Canada",
+        "official": "Canada"
+      },
+      "deu": {
+        "common": "Kanada",
+        "official": "Kanada"
+      },
+      "est": {
+        "common": "Kanada",
+        "official": "Kanada"
+      },
+      "fas": {
+        "common": "کانادا",
+        "official": "کانادا"
+      },
+      "fin": {
+        "common": "Kanada",
+        "official": "Kanada"
+      },
+      "fra": {
+        "common": "Canada",
+        "official": "Canada"
+      },
+      "hrv": {
+        "common": "Kanada",
+        "official": "Kanada"
+      },
+      "hun": {
+        "common": "Kanada",
+        "official": "Kanada"
+      },
+      "ind": {
+        "common": "Kanada",
+        "official": "Kanada"
+      },
+      "ita": {
+        "common": "Canada",
+        "official": "Canada"
+      },
+      "jpn": {
+        "common": "カナダ",
+        "official": "カナダ"
+      },
+      "kor": {
+        "common": "캐나다",
+        "official": "캐나다"
+      },
+      "nld": {
+        "common": "Canada",
+        "official": "Canada"
+      },
+      "pol": {
+        "common": "Kanada",
+        "official": "Kanada"
+      },
+      "por": {
+        "common": "Canadá",
+        "official": "Canadá"
+      },
+      "rus": {
+        "common": "Канада",
+        "official": "Канада"
+      },
+      "slk": {
+        "common": "Kanada",
+        "official": "Kanada"
+      },
+      "spa": {
+        "common": "Canadá",
+        "official": "Canadá"
+      },
+      "srp": {
+        "common": "Канада",
+        "official": "Канада"
+      },
+      "swe": {
+        "common": "Kanada",
+        "official": "Kanada"
+      },
+      "tur": {
+        "common": "Kanada",
+        "official": "Kanada"
+      },
+      "urd": {
+        "common": "کینیڈا",
+        "official": "کینیڈا"
+      },
+      "zho": {
+        "common": "加拿大",
+        "official": "加拿大"
+      }
+    }
+  },
+  "codes": {
+    "alpha_2": "CA",
+    "alpha_3": "CAN",
+    "ccn3": "124",
+    "cioc": "CAN",
+    "fifa": "CAN",
+    "fips": "CA",
+    "gec": "CA"
+  },
+  "region": "Americas",
+  "subregion": "North America",
+  "capitals": [
+    {
+      "attributes": {
+        "administrative": false,
+        "constitutional": false,
+        "executive": false,
+        "judicial": false,
+        "legislative": false,
+        "primary": true
+      },
+      "coordinates": {
+        "lat": 45.42,
+        "lng": -75.7
+      },
+      "name": "Ottawa"
+    }
+  ],
+  "population": 41798407,
+  "area": {
+    "kilometers": 9984670,
+    "miles": 3855101.1
+  },
+  "languages": [
+    {
+      "bcp47": "en",
+      "iso639_1": "en",
+      "iso639_2b": "eng",
+      "iso639_2t": "eng",
+      "iso639_3": "eng",
+      "name": "English",
+      "native_name": "English"
+    },
+    {
+      "bcp47": "fr",
+      "iso639_1": "fr",
+      "iso639_2b": "fre",
+      "iso639_2t": "fra",
+      "iso639_3": "fra",
+      "name": "French",
+      "native_name": "français"
+    }
+  ],
+  "currencies": [
+    {
+      "code": "CAD",
+      "name": "Canadian dollar",
+      "symbol": "$"
+    }
+  ],
+  "timezones": [
+    "UTC-08:00",
+    "UTC-07:00",
+    "UTC-06:00",
+    "UTC-05:00",
+    "UTC-04:00",
+    "UTC-03:30"
+  ],
+  "borders": [
+    "USA"
+  ],
+  "continents": [
+    "North America"
+  ],
+  "calling_codes": [
+    "1"
+  ],
+  "tlds": [
+    ".ca"
+  ],
+  "coordinates": {
+    "lat": 60,
+    "lng": -95
+  },
+  "classification": {
+    "dependency": false,
+    "dependency_type": "",
+    "disputed": false,
+    "iso_status": "official",
+    "sovereign": true,
+    "un_member": true,
+    "un_observer": false
+  }
+}
